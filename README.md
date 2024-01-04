@@ -1,5 +1,7 @@
 ### Hi you! 👋
 
-I'm Petar, software engineer focussed on building simple and resilient {software, company, life}. I'm also a dad of five who likes to run long distances.
+I'm Petar, a software engineer focussed on building simple and resilient {software, company, life}. I'm also a dad of five who likes to run long distances slowly.
 
-Currently I'm keeping myself busy with distributed systems, system design and this hot new language called Rust. Feel free to reach out to me if you want to talk about any of these!
+Passionate about anything that has to do with building products, and Lisp.
+
+In my day-job, I'm leading the technology department at Workera, where we help people achieve their career goals. Feel free to contact me if you want to talk about any of these!
